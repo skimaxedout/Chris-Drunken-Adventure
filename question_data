@@ -1,0 +1,13 @@
+
+questionData = {
+    1 : {
+    	"questionTxt": "Do you say 'Yes' or 'No'",
+    	"Yes": 2,
+    	"No": 3
+	}
+	2 : {
+    	"questionTxt": "Do you say 'Yes' or 'No'",
+    	"Yes": 2,
+    	"No": 3
+	} 
+}
